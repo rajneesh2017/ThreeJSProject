@@ -1,7 +1,7 @@
 import { defineConfig } from "vite"
 
 // vite.config.js
-export default {
+export default ({
     // config options
     base: '/threejsproject/'
-}
+})
